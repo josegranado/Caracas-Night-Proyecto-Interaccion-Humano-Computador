@@ -6,7 +6,7 @@ Maquetación y estilizado en HTML y CSS de un sitio web.
 
 #### Nombre del sitio:
 
-CaracasNight
+Caracas-Night
 
 #### Descripción del sitio:
 
